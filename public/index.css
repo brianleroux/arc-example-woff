@@ -1,0 +1,10 @@
+@font-face {
+	font-family: MyFont;
+	src:
+		url('pangolin-v5-latin-regular.woff2') format('woff2'),
+		url('pangolin-v5-latin-regular') format('woff');
+}
+
+body {
+  font-family: MyFont;
+}
